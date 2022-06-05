@@ -7,3 +7,7 @@
 5. Wait for the delivery
 6. Greet delivery driver
 7. See step 4b if necessary
+8. Company deliver wrong order
+ 8a. Driver takes pizza back
+ 8b. correct the order
+ 8c. Driver deliver the correct pizza
